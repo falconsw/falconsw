@@ -41,7 +41,14 @@
 &nbsp; &nbsp; <a href= "https://www.linkedin.com/in/falconsw/">  <img src="https://berserkon.com/images/linkedin-svg-black-and-white.png" width="72px">  </a> &nbsp;
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
+## [Ömer F. DOĞAN](http://doganomer.com/)
+ <div align="centre">
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/falconsw)
+[![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Khairnar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/falconsw/)](https://www.linkedin.com/in/falconsw/) [![Twitter Badge](http://img.shields.io/badge/-@VedantKhairnar3-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/falconsw)](https://twitter.com/falconsw) [![GitHub followers](https://img.shields.io/github/followers/falconsw?label=Follow&style=social)](https://github.com/falconsw/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-kingsmanvk-blue?style=social&logo=Instagram&link=https://www.instagram.com/kingsmanvk/)](https://www.instagram.com/kingsmanvk/) 
+[![Vedant Khairnar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://doganomer.com/)
+ </div>
  
 ![Made with love in Turkey](https://madewithlove.now.sh/tr?heart=true&colorA=%23050000&colorB=%23ff0000&template=for-the-badge)
 ![VisitorCount](https://profile-counter.glitch.me/falconsw/count.svg)
