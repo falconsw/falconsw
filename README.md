@@ -43,7 +43,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
  
-![Made with love in Turkey](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![Made with love in Turkey](https://madewithlove.now.sh/tr?heart=true&colorA=%23050000&colorB=%23ff0000&template=for-the-badge)
 ![VisitorCount](https://profile-counter.glitch.me/falconsw/count.svg)
  
  
