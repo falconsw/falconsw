@@ -42,7 +42,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/falconsw)
 [![Linkedin Badge](https://img.shields.io/badge/-Omer%20Dogan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/falconsw/)](https://www.linkedin.com/in/falconsw/) [![Twitter Badge](http://img.shields.io/badge/-@falconsw-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/falconsw)](https://twitter.com/falconsw) [![GitHub followers](https://img.shields.io/github/followers/falconsw?label=Follow&style=social)](https://github.com/falconsw/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-kingsmanvk-blue?style=social&logo=Instagram&link=https://www.instagram.com/falconsw/)](https://www.instagram.com/falconsw/) 
+[![Instagram Badge](https://img.shields.io/badge/-falconsw-blue?style=social&logo=Instagram&link=https://www.instagram.com/falconsw/)](https://www.instagram.com/falconsw/) 
 [![Omer Dogan](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://doganomer.com/)
  </div>
  
