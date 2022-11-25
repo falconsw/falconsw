@@ -37,10 +37,6 @@
 
  <h2> CONTACT </h2> <br>
 
-&nbsp; <a href= "https://github.com/falconsw">  <img src="https://pandacode.ru/wp-content/uploads/2021/08/Github.png" width="72px"> </a> &nbsp;
-&nbsp; &nbsp; <a href= "https://www.linkedin.com/in/falconsw/">  <img src="https://berserkon.com/images/linkedin-svg-black-and-white.png" width="72px">  </a> &nbsp;
-
-
 ## [Ömer F. DOĞAN](http://doganomer.com/)
  <div align="centre">
 
