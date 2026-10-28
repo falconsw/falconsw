@@ -1,52 +1,33 @@
-### Hi, I'm Ömer &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" height="42px"><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Ömer Doğan — native Mac apps and Claude Code tools" src="assets/header-dark.svg" width="100%">
+</picture>
 
+I make small, focused tools that remove a bit of daily friction: native Mac apps in SwiftUI, mods for Claude Code, and the occasional Chrome extension. All of it is free, and most of it is open source.
 
-![software](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)  <br>
+## Mac apps
 
- <h3> WHO AM I ? <h3> 
+All of them install with Homebrew from [`falconsw/tap`](https://github.com/falconsw/homebrew-tap).
 
-![Gökmen's github stats](https://github-readme-stats.vercel.app/api?username=falconsw&show_icons=true&theme=radical)
+| App | What it does | Install |
+| --- | --- | --- |
+| **[Folderpad](https://github.com/falconsw/folderpad)** | App folders in the Dock for macOS 26, now that Launchpad is gone. | `brew install --cask falconsw/tap/folderpad` |
+| **[LaunchSet](https://github.com/falconsw/launchset)** | Open a whole set of apps (Morning, Work, Evening…) in one click from the menu bar. | `brew install --cask falconsw/tap/launchset` |
+| **[Kestirme](https://github.com/falconsw/kestirme)** | Hold <kbd>⌘</kbd> to see every keyboard shortcut of the frontmost app; search and run them. | `brew install --cask falconsw/tap/kestirme` |
+| **[Dürücü](https://github.com/falconsw/durucu)** | Look inside ZIP, 7Z, RAR and TAR before extracting; create encrypted archives. | `brew install --cask falconsw/tap/durucu` |
+| **Süpürücü** | Menu bar storage reclaimer and app uninstaller. | `brew install --cask falconsw/tap/supurucu` |
 
+## AI & developer tools
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=My+name+is+Ömer;Web+Developer)](https://git.io/typing-svg)
+- **[cost-info](https://github.com/falconsw/cost-info)**: live cost, tokens and plan limits under the Claude Code prompt.
+- **[project-memory](https://github.com/falconsw/project-memory)**: one shared project memory for Claude Code and Cursor.
+- **[maps-lead-scraper](https://github.com/falconsw/maps-lead-scraper)**: Chrome extension that exports Google Maps businesses to CSV.
 
-<h2> I ALSO KNOW: </h2>  <br>
+## Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falconsw&layout=compact)](https://github.com/falconsw/github-readme-stats)
+Swift · SwiftUI · TypeScript · Next.js · PHP · Laravel · Node.js · Python
 
+## Find me
 
-  <br>
-
-   <div id="language">
-
- <img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b76110ef46d4b303f11a59ea380d042ec4b1a04aa3c15&rid=giphy.gif&ct=s" width="82px" height="100px">
-
-<img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47y1ug986lo0gf70z5tzqmh1bcboikozwb09rtth3f&rid=giphy.gif&ct=s" width="82px" height="100px">
-
- <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy_s.gif?cid=ecf05e47zbtgsdddzewgci0vvirxpot5jigeqx7e1th68hjc&rid=giphy_s.gif&ct=s" width="82px" height="100px">
-
- <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="140px" height="100px">
-
- <img src="http://mirror.ihc.ru/php.ihc-ru.net/images/ele-running.gif" width="140px" height="100px">
-
-<br>
-
- </div>
-
-<div id="contact">
-
- <h2> CONTACT </h2> <br>
-
-## [Ömer F. DOĞAN](http://doganomer.com/)
- <div align="centre">
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/falconsw)
-[![Linkedin Badge](https://img.shields.io/badge/-Omer%20Dogan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/falconsw/)](https://www.linkedin.com/in/falconsw/) [![Twitter Badge](http://img.shields.io/badge/-@falconsw-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/falconsw)](https://twitter.com/falconsw) [![GitHub followers](https://img.shields.io/github/followers/falconsw?label=Follow&style=social)](https://github.com/falconsw/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-falconsw-blue?style=social&logo=Instagram&link=https://www.instagram.com/falconsw/)](https://www.instagram.com/falconsw/) 
-[![Omer Dogan](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://doganomer.com/)
- </div>
- 
-![Made with love in Turkey](https://madewithlove.now.sh/tr?heart=true&colorA=%23050000&colorB=%23ff0000&template=for-the-badge)
-![VisitorCount](https://profile-counter.glitch.me/falconsw/count.svg)
- 
- 
+[X](https://x.com/falconsoftw) · [LinkedIn](https://www.linkedin.com/in/falconsw/) · [doganomer.com](https://doganomer.com)
