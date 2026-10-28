@@ -30,7 +30,10 @@ brew install --cask falconsw/tap/folderpad   # or launchset, kestirme, durucu, s
 
 ## Stack
 
-Swift · SwiftUI · TypeScript · Next.js · PHP · Laravel · Node.js · Python
+**Languages:** Swift · TypeScript · JavaScript · PHP · Python · Dart · Kotlin · Go  
+**Apps & web:** SwiftUI · React · React Native · Flutter · Angular · Ionic · Next.js · Vue · Tailwind CSS  
+**Backend:** Node.js · NestJS · Express · Laravel · Firebase  
+**Automation & tooling:** n8n · Docker · Chrome extensions · Claude Code
 
 ## Find me
 
