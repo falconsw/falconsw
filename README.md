@@ -6,6 +6,8 @@
 
 I make small, focused tools that remove a bit of daily friction: native Mac apps in SwiftUI, mods for Claude Code, and the occasional Chrome extension. All of it is free, and most of it is open source.
 
+Since 2018 I've also been building autonomous and semi-autonomous trading bots in Node.js, Python and Swift, from exchange integrations to indicator-based strategies and paper trading.
+
 ## Mac apps
 
 | App | What it does |
@@ -31,9 +33,11 @@ brew install --cask falconsw/tap/folderpad   # or launchset, kestirme, durucu, s
 ## Stack
 
 **Languages:** Swift · TypeScript · JavaScript · PHP · Python · Dart · Kotlin · Go  
-**Apps & web:** SwiftUI · React · React Native · Flutter · Angular · Ionic · Next.js · Vue · Tailwind CSS  
-**Backend:** Node.js · NestJS · Express · Laravel · Firebase  
-**Automation & tooling:** n8n · Docker · Chrome extensions · Claude Code
+**Apps & extensions:** SwiftUI · React Native · Flutter · Ionic · Chrome extensions  
+**Frontend:** React · Next.js · Angular · Vue · Tailwind CSS  
+**Backend:** Node.js · NestJS · Express · Laravel  
+**Cloud & DevOps:** Firebase · Docker · Vercel  
+**Automation & AI:** n8n · Claude Code
 
 ## Find me
 
