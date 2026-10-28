@@ -8,15 +8,19 @@ I make small, focused tools that remove a bit of daily friction: native Mac apps
 
 ## Mac apps
 
-All of them install with Homebrew from [`falconsw/tap`](https://github.com/falconsw/homebrew-tap).
+| App | What it does |
+| --- | --- |
+| **[Folderpad](https://github.com/falconsw/folderpad)** | App folders in the Dock for macOS 26, now that Launchpad is gone. |
+| **[LaunchSet](https://github.com/falconsw/launchset)** | Open a whole set of apps (Morning, Work, Evening…) in one click from the menu bar. |
+| **[Kestirme](https://github.com/falconsw/kestirme)** | Hold <kbd>⌘</kbd> to see every keyboard shortcut of the frontmost app; search and run them. |
+| **[Dürücü](https://github.com/falconsw/durucu)** | Look inside ZIP, 7Z, RAR and TAR before extracting; create encrypted archives. |
+| **Süpürücü** | Menu bar storage reclaimer and app uninstaller. |
 
-| App | What it does | Install |
-| --- | --- | --- |
-| **[Folderpad](https://github.com/falconsw/folderpad)** | App folders in the Dock for macOS 26, now that Launchpad is gone. | `brew install --cask falconsw/tap/folderpad` |
-| **[LaunchSet](https://github.com/falconsw/launchset)** | Open a whole set of apps (Morning, Work, Evening…) in one click from the menu bar. | `brew install --cask falconsw/tap/launchset` |
-| **[Kestirme](https://github.com/falconsw/kestirme)** | Hold <kbd>⌘</kbd> to see every keyboard shortcut of the frontmost app; search and run them. | `brew install --cask falconsw/tap/kestirme` |
-| **[Dürücü](https://github.com/falconsw/durucu)** | Look inside ZIP, 7Z, RAR and TAR before extracting; create encrypted archives. | `brew install --cask falconsw/tap/durucu` |
-| **Süpürücü** | Menu bar storage reclaimer and app uninstaller. | `brew install --cask falconsw/tap/supurucu` |
+All of them install with Homebrew from [`falconsw/tap`](https://github.com/falconsw/homebrew-tap):
+
+```sh
+brew install --cask falconsw/tap/folderpad   # or launchset, kestirme, durucu, supurucu
+```
 
 ## AI & developer tools
 
